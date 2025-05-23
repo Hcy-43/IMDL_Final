@@ -1,1 +1,8 @@
 /web_crawl/data/*
+!/web_crawl/data/.gitkeep
+/dataset_all/test/*
+!/dataset_all/test/.gitkeep
+/dataset_all/train/*
+!/dataset_all/train/.gitkeep
+/dataset_all/val/*
+!/dataset_all/val/.gitkeep
